@@ -1,9 +1,11 @@
-[
+{
+    "status": "ok",
+    "movies":[
         {
             "title":"abc",
-            "imgurl":"img",
             "url":"xyz",
-            "genre":"horrors"
+            "imgurl":"img"
 
         }
-]
+    ]
+}
